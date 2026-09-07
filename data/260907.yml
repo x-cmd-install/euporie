@@ -5,13 +5,13 @@ about:
   head: 88a5846
   archived: false
   latestVersion: "v2.10.4"
-  collectedAt: 2026-09-07T04:52:59Z
+  collectedAt: 2026-09-07T19:31:49Z
 timeline:
   created: 2021-05-08
   lastCommit: 2026-08-27
   lastRelease: 2026-02-23
 popularity:
-  star: 2649
+  star: 2648
   watcher: 9
   fork: 55
   release: 54
@@ -81,7 +81,7 @@ total:
   commit: 2420
 ---
 path: /home/runner/.x-repo/github.com/joouha/euporie
-collectedAt: 2026-09-07T04:53:01Z
+collectedAt: 2026-09-07T19:31:51Z
 loc:
   Python:
     code: 75952
@@ -218,7 +218,7 @@ checks:
       - 'Warn: 0 commits out of 2 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T04:53:02+00:00
+  collectedAt: 2026-09-07T19:31:52+00:00
   platform:
     darwin/arm64:
       name:  null
