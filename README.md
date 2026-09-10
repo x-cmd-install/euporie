@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,651 · **Forks**: 56 · **Open issues**: 160 · **Contributors**: 11
+- **Stars**: 2,652 · **Forks**: 56 · **Open issues**: 160 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T20:53:10Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T22:53:14Z._
