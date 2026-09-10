@@ -1,0 +1,12 @@
+- repo: aur
+  srcname: euporie
+  binname: euporie
+  visiblename: euporie
+  version: 2.10.4
+  origversion: 2.10.4-1
+  status: unique
+  summary: Jupyter notebooks in the terminal
+  maintainers:
+    - gilcu3@aur
+  licenses:
+    - MIT
