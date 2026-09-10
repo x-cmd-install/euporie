@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.10.4"
   latestRelease: "v2.10.4"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T20:52:57Z
+  collectedAt: 2026-09-10T22:53:04Z
 timeline:
   created: 2021-05-08
   lastCommit: 2026-08-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-02-23
   lastPrerelease: 
 popularity:
-  star: 2651
+  star: 2652
   watcher: 9
   fork: 56
   release: 54
@@ -85,7 +85,7 @@ total:
   commit: 2420
 ---
 path: /home/runner/.x-repo/github.com/joouha/euporie
-collectedAt: 2026-09-10T20:53:03Z
+collectedAt: 2026-09-10T22:53:07Z
 loc:
   Python:
     code: 75952
