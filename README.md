@@ -14,11 +14,11 @@ x install euporie
 
 ## Code insight
 
-Total: **81,020** lines of code across **426** files in the top 5 languages.
+Total: **81,027** lines of code across **426** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 75,952 | 3,496 | 10,642 | 294 |
+| Python | 75,959 | 3,496 | 10,644 | 294 |
 | ReStructuredText | 4,490 | 0 | 2,077 | 122 |
 | Toml | 388 | 25 | 78 | 7 |
 | Html | 73 | 0 | 6 | 2 |
@@ -32,7 +32,7 @@ Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
 - **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
-- **Pinned-Dependencies** (0/10) — dependency not pinned by hash detected -- score normalized to 0
+- **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.4` (2026-02-23)
-- **Last commit**: 2026-08-27
+- **Last commit**: 2026-09-14
 
 ## Popularity
 
-- **Stars**: 2,656 · **Forks**: 57 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 2,655 · **Forks**: 57 · **Open issues**: 162 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 146 · **Open issues**: 16 · **Commits**: 2420
+- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 147 · **Open issues**: 15 · **Commits**: 2421
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 1 | 0 | 2 | 5 |
-| last60d | 2026-07-16 | 0 | 1 | 1 | 4 | 3 | 22 |
-| 90d | 2026-06-16 | 0 | 1 | 1 | 5 | 4 | 80 |
-| last180d | 2026-03-18 | 0 | 1 | 1 | 12 | 5 | 171 |
-| 360d | 2025-09-19 | 9 | 2 | 1 | 20 | 9 | 624 |
-| last720d | 2024-09-24 | 20 | 3 | 1 | 45 | 10 | 1007 |
+| 30d | 2026-08-16 | 0 | 0 | 1 | 1 | 1 | 6 |
+| last60d | 2026-07-17 | 0 | 1 | 1 | 5 | 2 | 23 |
+| 90d | 2026-06-17 | 0 | 1 | 1 | 6 | 3 | 81 |
+| last180d | 2026-03-19 | 0 | 1 | 1 | 13 | 4 | 172 |
+| 360d | 2025-09-20 | 9 | 2 | 1 | 21 | 8 | 625 |
+| last720d | 2024-09-25 | 20 | 3 | 1 | 46 | 9 | 1006 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:09:36Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:10:04Z._
