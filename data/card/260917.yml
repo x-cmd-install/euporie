@@ -221,4 +221,3 @@ checks:
     details:
       - 'Warn: 0 commits out of 2 are checked with a SAST tool'
 ---
-{"id":289366310,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOFcrV9c4RP2Em","tag_name":"v2.10.4","target_commitish":"dev","name":"v2.10.4","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-02-23T11:00:53Z","updated_at":"2026-02-23T11:01:04Z","published_at":"2026-02-23T11:01:04Z","assets":[],"body":"Added\n=====\n\n- Add autosuggestion acceptance key-bindings for vi & emacs editing modes\n\nFixed\n=====\n\n- Prevent crash on zero-width graphics"}
