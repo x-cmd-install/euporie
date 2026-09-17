@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 0 | 1 | 1 | 1 | 6 |
-| last60d | 2026-07-18 | 0 | 1 | 1 | 5 | 2 | 23 |
-| 90d | 2026-06-18 | 0 | 1 | 1 | 6 | 3 | 81 |
-| last180d | 2026-03-20 | 0 | 1 | 1 | 13 | 3 | 172 |
-| 360d | 2025-09-21 | 9 | 2 | 1 | 21 | 8 | 625 |
-| last720d | 2024-09-26 | 20 | 3 | 1 | 46 | 9 | 1006 |
+| 30d | 2026-08-18 | 0 | 0 | 1 | 1 | 1 | 6 |
+| last60d | 2026-07-19 | 0 | 1 | 1 | 5 | 2 | 23 |
+| 90d | 2026-06-19 | 0 | 1 | 1 | 6 | 3 | 81 |
+| last180d | 2026-03-21 | 0 | 1 | 1 | 13 | 3 | 172 |
+| 360d | 2025-09-22 | 9 | 2 | 1 | 21 | 8 | 625 |
+| last720d | 2024-09-27 | 20 | 3 | 1 | 46 | 9 | 1006 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T05:08:57Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T05:07:13Z._
