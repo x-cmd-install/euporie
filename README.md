@@ -14,12 +14,12 @@ x install euporie
 
 ## Code insight
 
-Total: **81,027** lines of code across **426** files in the top 5 languages.
+Total: **82,039** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 75,959 | 3,496 | 10,644 | 294 |
-| ReStructuredText | 4,490 | 0 | 2,077 | 122 |
+| Python | 76,970 | 3,603 | 10,855 | 295 |
+| ReStructuredText | 4,491 | 0 | 2,077 | 123 |
 | Toml | 388 | 25 | 78 | 7 |
 | Html | 73 | 0 | 6 | 2 |
 | Css | 54 | 0 | 7 | 1 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.4` (2026-02-23)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-17
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 2 · **Closed issues**: 147 · **Open issues**: 15 · **Commits**: 2421
+- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 148 · **Open issues**: 14 · **Commits**: 2425
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 0 | 1 | 1 | 1 | 6 |
-| last60d | 2026-07-19 | 0 | 1 | 1 | 5 | 2 | 23 |
-| 90d | 2026-06-19 | 0 | 1 | 1 | 6 | 3 | 81 |
-| last180d | 2026-03-21 | 0 | 1 | 1 | 13 | 3 | 172 |
-| 360d | 2025-09-22 | 9 | 2 | 1 | 21 | 8 | 625 |
-| last720d | 2024-09-27 | 20 | 3 | 1 | 46 | 9 | 1006 |
+| 30d | 2026-08-19 | 0 | 0 | 0 | 2 | 0 | 10 |
+| last60d | 2026-07-20 | 0 | 1 | 0 | 6 | 1 | 27 |
+| 90d | 2026-06-20 | 0 | 1 | 0 | 7 | 2 | 85 |
+| last180d | 2026-03-22 | 0 | 1 | 0 | 14 | 2 | 176 |
+| 360d | 2025-09-23 | 9 | 2 | 0 | 22 | 7 | 629 |
+| last720d | 2024-09-28 | 20 | 3 | 0 | 47 | 8 | 1009 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:07:13Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:05:27Z._
