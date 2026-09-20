@@ -4,7 +4,7 @@
 
 Jupyter notebooks in the terminal
 
-![euporie](https://repo.x-cmd.io/euporie.svg)
+[![x-cmd/install — euporie Code Quality Monitoring Repo Card](https://repo.x-cmd.io/euporie.svg)](https://x-cmd.com/install/euporie)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install euporie
 
 ## Code insight
 
-Total: **82,039** lines of code across **428** files in the top 5 languages.
+Total: **82,037** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 76,970 | 3,603 | 10,855 | 295 |
+| Python | 76,968 | 3,603 | 10,854 | 295 |
 | ReStructuredText | 4,491 | 0 | 2,077 | 123 |
 | Toml | 388 | 25 | 78 | 7 |
 | Html | 73 | 0 | 6 | 2 |
@@ -43,11 +43,11 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.4` (2026-02-23)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-18
 
 ## Popularity
 
-- **Stars**: 2,655 · **Forks**: 57 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 2,656 · **Forks**: 56 · **Open issues**: 162 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 2 | 0 | 10 |
-| last60d | 2026-07-20 | 0 | 1 | 0 | 6 | 1 | 27 |
-| 90d | 2026-06-20 | 0 | 1 | 0 | 7 | 2 | 85 |
-| last180d | 2026-03-22 | 0 | 1 | 0 | 14 | 2 | 176 |
-| 360d | 2025-09-23 | 9 | 2 | 0 | 22 | 7 | 629 |
-| last720d | 2024-09-28 | 20 | 3 | 0 | 47 | 8 | 1009 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 2 | 0 | 5 |
+| last60d | 2026-07-22 | 0 | 1 | 0 | 6 | 1 | 18 |
+| 90d | 2026-06-22 | 0 | 1 | 0 | 7 | 2 | 75 |
+| last180d | 2026-03-24 | 0 | 1 | 0 | 13 | 2 | 173 |
+| 360d | 2025-09-25 | 9 | 2 | 0 | 22 | 7 | 627 |
+| last720d | 2024-09-30 | 20 | 3 | 0 | 46 | 8 | 1009 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:05:27Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:03:56Z._
