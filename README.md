@@ -14,11 +14,11 @@ x install euporie
 
 ## Code insight
 
-Total: **82,037** lines of code across **428** files in the top 5 languages.
+Total: **82,076** lines of code across **428** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 76,968 | 3,603 | 10,854 | 295 |
+| Python | 77,007 | 3,611 | 10,859 | 295 |
 | ReStructuredText | 4,491 | 0 | 2,077 | 123 |
 | Toml | 388 | 25 | 78 | 7 |
 | Html | 73 | 0 | 6 | 2 |
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.10.4` (2026-02-23)
-- **Last commit**: 2026-09-18
+- **Last commit**: 2026-09-30
 
 ## Popularity
 
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 148 · **Open issues**: 14 · **Commits**: 2425
+- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 148 · **Open issues**: 14 · **Commits**: 2427
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 0 | 0 | 2 | 0 | 5 |
-| last60d | 2026-08-02 | 0 | 0 | 0 | 2 | 1 | 16 |
-| 90d | 2026-07-03 | 0 | 1 | 0 | 7 | 2 | 62 |
-| last180d | 2026-04-04 | 0 | 1 | 0 | 13 | 2 | 173 |
-| 360d | 2025-10-06 | 8 | 2 | 0 | 21 | 7 | 619 |
-| last720d | 2024-10-11 | 20 | 3 | 0 | 45 | 8 | 979 |
+| 30d | 2026-09-02 | 0 | 0 | 0 | 2 | 0 | 7 |
+| last60d | 2026-08-03 | 0 | 0 | 0 | 2 | 1 | 18 |
+| 90d | 2026-07-04 | 0 | 1 | 0 | 7 | 2 | 64 |
+| last180d | 2026-04-05 | 0 | 1 | 0 | 13 | 2 | 175 |
+| 360d | 2025-10-07 | 8 | 2 | 0 | 21 | 7 | 621 |
+| last720d | 2024-10-12 | 20 | 3 | 0 | 45 | 8 | 981 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T06:04:14Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T05:41:51Z._
