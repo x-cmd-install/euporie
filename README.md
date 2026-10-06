@@ -30,8 +30,8 @@ Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,670 · **Forks**: 58 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 2,673 · **Forks**: 58 · **Open issues**: 162 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 0 | 0 | 0 | 2 | 0 | 7 |
-| last60d | 2026-08-06 | 0 | 0 | 0 | 2 | 1 | 16 |
-| 90d | 2026-07-07 | 0 | 1 | 0 | 7 | 2 | 42 |
-| last180d | 2026-04-08 | 0 | 1 | 0 | 12 | 2 | 175 |
-| 360d | 2025-10-10 | 8 | 2 | 0 | 21 | 7 | 599 |
-| last720d | 2024-10-15 | 20 | 3 | 0 | 45 | 8 | 980 |
+| 30d | 2026-09-06 | 0 | 0 | 0 | 2 | 0 | 7 |
+| last60d | 2026-08-07 | 0 | 0 | 0 | 2 | 1 | 16 |
+| 90d | 2026-07-08 | 0 | 1 | 0 | 7 | 2 | 42 |
+| last180d | 2026-04-09 | 0 | 1 | 0 | 12 | 2 | 175 |
+| 360d | 2025-10-11 | 7 | 2 | 0 | 21 | 7 | 599 |
+| last720d | 2024-10-16 | 20 | 3 | 0 | 45 | 8 | 980 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T05:47:24Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T06:27:32Z._
