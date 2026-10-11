@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,681 · **Forks**: 58 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 2,683 · **Forks**: 58 · **Open issues**: 162 · **Contributors**: 11
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 0 | 0 | 2 | 0 | 0 |
-| last60d | 2026-08-11 | 0 | 0 | 0 | 3 | 0 | 0 |
-| 90d | 2026-07-12 | 0 | 1 | 0 | 8 | 0 | 0 |
-| last180d | 2026-04-13 | 0 | 1 | 0 | 13 | 1 | 0 |
-| 360d | 2025-10-15 | 6 | 2 | 0 | 21 | 6 | 0 |
-| last720d | 2024-10-20 | 20 | 3 | 0 | 46 | 7 | 973 |
+| 30d | 2026-09-11 | 0 | 0 | 0 | 2 | 0 | 4 |
+| last60d | 2026-08-12 | 0 | 0 | 0 | 3 | 0 | 16 |
+| 90d | 2026-07-13 | 0 | 1 | 0 | 8 | 0 | 31 |
+| last180d | 2026-04-14 | 0 | 1 | 0 | 13 | 1 | 173 |
+| 360d | 2025-10-16 | 6 | 2 | 0 | 21 | 6 | 593 |
+| last720d | 2024-10-21 | 20 | 3 | 0 | 45 | 7 | 973 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:58:36Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T06:00:17Z._
