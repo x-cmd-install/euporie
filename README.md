@@ -31,7 +31,7 @@ Overall score: **4.7 / 10**
 Lowest-scoring checks:
 
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 1/29 approved changesets -- score normalized to 0
+- **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 0 | 0 | 0 | 4 |
-| last60d | 2026-08-14 | 0 | 0 | 0 | 3 | 0 | 16 |
-| 90d | 2026-07-15 | 0 | 1 | 0 | 7 | 0 | 31 |
-| last180d | 2026-04-16 | 0 | 1 | 0 | 13 | 1 | 173 |
-| 360d | 2025-10-18 | 6 | 2 | 0 | 21 | 6 | 593 |
-| last720d | 2024-10-23 | 20 | 3 | 0 | 44 | 7 | 973 |
+| 30d | 2026-09-14 | 0 | 0 | 0 | 0 | 0 | 4 |
+| last60d | 2026-08-15 | 0 | 0 | 0 | 2 | 0 | 16 |
+| 90d | 2026-07-16 | 0 | 1 | 0 | 7 | 0 | 31 |
+| last180d | 2026-04-17 | 0 | 1 | 0 | 13 | 1 | 173 |
+| 360d | 2025-10-19 | 6 | 2 | 0 | 21 | 6 | 593 |
+| last720d | 2024-10-24 | 20 | 3 | 0 | 44 | 7 | 973 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T06:59:00Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:03:39Z._
