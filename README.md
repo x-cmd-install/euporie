@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 2,717 · **Forks**: 59 · **Open issues**: 162 · **Contributors**: 11
+- **Stars**: 2,719 · **Forks**: 59 · **Open issues**: 163 · **Contributors**: 11
 
 ## Totals (cumulative)
 
-- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 149 · **Open issues**: 13 · **Commits**: 2435
+- **Releases**: 54 · **Merged PRs**: 9 · **Open PRs**: 1 · **Closed issues**: 149 · **Open issues**: 14 · **Commits**: 2435
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 0 | 0 | 0 | 6 |
-| last60d | 2026-09-21 | 0 | 0 | 0 | 0 | 0 | 9 |
-| 90d | 2026-08-22 | 0 | 0 | 0 | 2 | 0 | 17 |
-| last180d | 2026-05-24 | 0 | 1 | 0 | 9 | 1 | 115 |
-| 360d | 2025-11-25 | 5 | 2 | 0 | 18 | 6 | 516 |
-| last720d | 2024-11-30 | 20 | 3 | 0 | 43 | 7 | 909 |
+| 30d | 2026-10-22 | 0 | 0 | 0 | 0 | 1 | 6 |
+| last60d | 2026-09-22 | 0 | 0 | 0 | 0 | 1 | 9 |
+| 90d | 2026-08-23 | 0 | 0 | 0 | 2 | 1 | 17 |
+| last180d | 2026-05-25 | 0 | 1 | 0 | 9 | 2 | 115 |
+| 360d | 2025-11-26 | 5 | 2 | 0 | 18 | 7 | 516 |
+| last720d | 2024-12-01 | 20 | 3 | 0 | 42 | 8 | 909 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for euporie lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T08:38:59Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:49:59Z._
